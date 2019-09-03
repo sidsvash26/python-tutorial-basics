@@ -3,7 +3,7 @@ This repo contains python tutorials covering basic Jupyter notebook functionalit
 
 Notebooks will be updated soon.
 
-Class schedule:
-September 2019 - 9,11,13,16,18
-Timings: 6.00 PM - 7.30 PM
-Venue: 531 Lattimore Hall, University of Rochester
+Class schedule:   
+September 2019 - 9,11,13,16,18  
+Timings: 6.00 PM - 7.30 PM  
+Venue: Genesee 325, University of Rochester
