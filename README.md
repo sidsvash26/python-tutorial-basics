@@ -1,6 +1,10 @@
 # python-tutorial-basics
 This repo contains python tutorials covering basic Jupyter notebook functionalities, manipulation with strings, and usage of some standard NLP pipelines. This is meant to be an introductory course for people with no prior knowledge of Python. Although, some basic coding background could be useful.  
 
+This tutorial is organized by FACTS.lab (http://factslab.io/)
+
+Instructor: Siddharth Vashishtha
+
 Notebooks will be updated after each tutorial.
 
 Tentative topics:
