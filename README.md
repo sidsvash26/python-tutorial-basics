@@ -9,6 +9,7 @@ The topics covered are listed below:
 
 ### Tuorial 1 (Date: 9 Sep, 2019)
 Google Colab Link: https://bit.ly/2kDLgv9 (Both 1 and 2)
+
 Topics
 - Basic datatypes and operations in Python
 - If-else statements
@@ -24,6 +25,7 @@ Topics
 
 ### Tutorial 3 (Date: 13 Sep, 2019)
 Google Colab Link: https://bit.ly/2kvyvms
+
 Topics
 - Review tokenization issues
 - Tokenization, Sentence separation (corenlp, spacy)
@@ -35,6 +37,7 @@ Topics
 
 ### Tutorial 4 (Date: 16 Sep, 2019)
 Google Colab Link: https://bit.ly/2mi0KW7
+
 Topics
 - Google ngram viewer
 - Constituency Parsers
@@ -43,6 +46,7 @@ Topics
 
 ### Tutorial 5 (Date: 18 Sep, 2019)
 Google Colab Link: https://bit.ly/2lUP3EK
+
 Topics
 - Semantic Role Labelling
 - PropBank, FrameNet
