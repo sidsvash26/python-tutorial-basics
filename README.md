@@ -1,20 +1,17 @@
 # python-tutorial-basics
-This repo contains python tutorials covering basic Jupyter notebook functionalities, manipulation with strings, and usage of some standard NLP pipelines. This is meant to be an introductory course for people with no prior knowledge of Python. Although, some basic coding background could be useful.  
+This repo contains python tutorials for basic text processing in Python, including standard NLP pipelines with Stanford CoreNLP and Spacy. All the notebooks were written in Google Colab. This is meant to be an introductory course for people with no prior knowledge of Python. Although, some basic coding background could be useful.  
 
 This tutorial is organized by FACTS.lab (http://factslab.io/)
 
 Instructor: Siddharth Vashishtha
 
-Notebooks will be updated after each tutorial.
-
-Tentative topics:
+The topics covered are listed below:
 
 ### Tuorial 1 (Date: 9 Sep, 2019)
 Topics
 - Basic datatypes and operations in Python
 - If-else statements
 - Loops 
-
 
 ### Tutorial 2 (Date: 11 Sep, 2019)
 Topics
@@ -44,8 +41,11 @@ Topics
 
 ### Tutorial 5 (Date: 18 Sep, 2019)
 Topics
-- Semantic Resources
-  
+- Semantic Role Labelling
+- PropBank, FrameNet
+- PredPatt
+- Semantic Parsers
+- Other tasks: WSD, Coreference resolution
 
 **Timings**: 6.00 PM - 7.30 PM  
 **Venue**: Genesee 325, University of Rochester
