@@ -8,22 +8,22 @@ Instructor: Siddharth Vashishtha
 The topics covered are listed below:
 
 ### Tuorial 1 (Date: 9 Sep, 2019)
+Google Colab Link: https://bit.ly/2kDLgv9 (Both 1 and 2)
 Topics
 - Basic datatypes and operations in Python
 - If-else statements
 - Loops 
 
+
 ### Tutorial 2 (Date: 11 Sep, 2019)
 Topics
-
 - List comprehensions
 - Defining Functions
 - Regular expressions (regex) 
 
-Optional reading for next tutorial:
-Tokenization: https://web.stanford.edu/~jurafsky/slp3/2.pdf
 
 ### Tutorial 3 (Date: 13 Sep, 2019)
+Google Colab Link: https://bit.ly/2kvyvms
 Topics
 - Review tokenization issues
 - Tokenization, Sentence separation (corenlp, spacy)
@@ -32,7 +32,9 @@ Topics
 - Plotting unigram counts 
 - Zipfian distribution   
 
+
 ### Tutorial 4 (Date: 16 Sep, 2019)
+Google Colab Link: https://bit.ly/2mi0KW7
 Topics
 - Google ngram viewer
 - Constituency Parsers
@@ -40,6 +42,7 @@ Topics
 - Tree searching
 
 ### Tutorial 5 (Date: 18 Sep, 2019)
+Google Colab Link: https://bit.ly/2lUP3EK
 Topics
 - Semantic Role Labelling
 - PropBank, FrameNet
