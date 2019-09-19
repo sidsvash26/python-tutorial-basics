@@ -1,5 +1,5 @@
 # python-tutorial-basics
-This repo contains python tutorials for basic text processing in Python, including standard NLP pipelines with Stanford CoreNLP and Spacy. All the notebooks were written in Google Colab. This is meant to be an introductory course for people with no prior knowledge of Python. Although, some basic coding background could be useful.  
+This repo contains python tutorials for **basic text processing in Python**, including standard NLP pipelines with Stanford CoreNLP and Spacy. All the notebooks were written in Google Colab. This is meant to be an introductory course for people with no prior knowledge of Python. Although, some basic coding background could be useful.  
 
 This tutorial is organized by FACTS.lab (http://factslab.io/)
 
